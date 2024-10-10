@@ -8,3 +8,7 @@ The **Twitter Mapper** is a graphical Java application that allows users to moni
 - **Geographical mapping**: Displays a world map with markers indicating the geographic origin of each tweet.
 - **Tooltips for tweets**: Hover over a tweet marker to see a tooltip displaying the tweet’s content.
 - **User-friendly interface**: Simple UI for selecting keywords and viewing tweet data.
+
+![Here is what you should see when you start the project:]([https://example.com/image.png](https://courses.edx.org/asset-v1:UBCx+SoftConst2x+3T2017+type@asset+block/Final_Project_Starter_Screenshot.png))
+
+![Here is what you should see when you finish the project:]([[https://example.com/image.png](https://courses.edx.org/asset-v1:UBCx+SoftConst2x+3T2017+type@asset+block/Final_Project_Starter_Screenshot.png)](https://courses.edx.org/asset-v1:UBCx+SoftConst2x+3T2017+type@asset+block/Final_Project_Complete_Screenshot.png))
